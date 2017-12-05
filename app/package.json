@@ -1,0 +1,25 @@
+{
+    "name": "pt.demo.hybridApp",
+    "displayName": "HybridApp",
+    "version": "1.0.0",
+    "description": "Framework for mobile application (hybrid app)",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "Samuel Alves",
+        "email": "samuel91a@hotmail.com",
+        "url": ""
+    },
+    "dependencies": {
+        "cordova-plugin-whitelist": "^1.3.3"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-whitelist": {}
+        },
+        "platforms": []
+    },
+    "license": "ISC"
+}

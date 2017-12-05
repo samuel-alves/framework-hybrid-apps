@@ -1,0 +1,13 @@
+{
+  "name": "HybridApp",
+  "description": "Framework for mobile application (hybrid app)",
+  "version": "1.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
